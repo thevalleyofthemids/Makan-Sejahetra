@@ -1,0 +1,5 @@
+{
+  "name": "Makan Sejahtera",
+  "description": "A health-focused Malaysian food customizer that modifies traditional recipes based on user health metrics using AI.",
+  "requestFramePermissions": []
+}
